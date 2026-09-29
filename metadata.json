@@ -1,0 +1,6 @@
+{
+  "name": "Nina AI",
+  "description": "نینا - آپ کی ذہین اور دوستانہ پرسنل اے آئی اسسٹنٹ (Nina AI Personal Assistant)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
